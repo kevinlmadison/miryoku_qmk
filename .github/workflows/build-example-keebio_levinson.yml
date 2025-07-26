@@ -8,4 +8,6 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["keebio/levinson"]'
+      keyboard: '["beekeeb/piantor"]'
+      nav: '["invertedt"]'
+      layers: '["flip"]'
