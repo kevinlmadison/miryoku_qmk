@@ -11,3 +11,4 @@ jobs:
       keyboard: '["beekeeb/piantor_pro"]'
       nav: '["invertedt"]'
       layers: '["flip"]'
+      alphas: '["QWERTY"]'
